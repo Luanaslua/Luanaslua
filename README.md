@@ -56,9 +56,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luanaslua/Luanaslua/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luanaslua/Luanaslua/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luanaslua/Luanaslua/output/pacman-contribution-graph.svg">
+  ![Pacman Contribution Graph (Light)](https://raw.githubusercontent.com/Luanaslua/Luanaslua/output/pacman-contribution-graph.svg)
+  ![Pacman Contribution Graph (Dark)](https://raw.githubusercontent.com/Luanaslua/Luanaslua/output/pacman-contribution-graph-dark.svg)
 </picture>
 
 ###
