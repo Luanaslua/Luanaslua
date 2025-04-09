@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Me chamo Luana, tenho 20 anos. Sou formada como Técnica em Eletroeletrônica e, ao longo dos estudos, descobri meu gosto pela área de TI. Atualmente curso Análise e Desenvolvimento de Sistemas e por aqui, deixo meus projetos e aprendizados!</p>
+<p align="left">Me chamo Luana, tenho 20 anos. Sou formada como Técnica em Eletroeletrônica e, ao longo dos estudos, descobri meu gosto pela área de TI. Atualmente curso Análise e Desenvolvimento de Sistemas, deixando por aqui meus projetos e aprendizados!</p>
 
 ###
 
